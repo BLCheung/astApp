@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/astApp.iml" filepath="$PROJECT_DIR$/astApp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/astlive/astlive.iml" filepath="$PROJECT_DIR$/astlive/astlive.iml" />
+      <module fileurl="file://$PROJECT_DIR$/livezbl/livezbl.iml" filepath="$PROJECT_DIR$/livezbl/livezbl.iml" />
+    </modules>
+  </component>
+</project>
