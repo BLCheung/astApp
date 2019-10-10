@@ -1,5 +1,5 @@
 # astApp
-视频直播监控
+Android原生基于环信SDK的视频实时监控
 
 # License
     
